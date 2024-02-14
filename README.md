@@ -5,6 +5,7 @@ it contains the following features -
 
 - Anyone can generate a card
 - Anyone can see their generated card
+- Anyone can delete their generated card
 - The show a person's
     - Name
     - A short description
